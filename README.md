@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MariusCdsg
-- 👀 I’m interested in the rubik's cube, learning languages, 
+- 👀 I’m interested in the rubik's cube, learning languages, sports, video games,
 - 🌱 I’m currently learning C and OCaml in prépa,
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
